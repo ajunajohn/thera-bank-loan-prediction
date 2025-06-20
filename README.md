@@ -3,7 +3,6 @@ A predictive modeling project to help Thera Bank identify liability customers li
 
 👩‍💻 Author
 Ajuna P John
-Date: June 2021
 
 📌 Objective
 Thera Bank aims to expand its loan customer base by identifying existing liability customers with high potential for conversion. This project builds classification models to:
